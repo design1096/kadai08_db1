@@ -18,3 +18,4 @@
 
 ## ⑥質問・疑問・感想、シェアしたいこと等なんでも
 - [参考]https://pigment.shapefactory.co/?s=2&a=0F405C&b=F04B53
+- [参考]https://ichiso.net/tools/youtube-code-issue.php
